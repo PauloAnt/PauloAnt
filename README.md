@@ -16,4 +16,4 @@ Instagram: @pauloabf_
 
 Linkedin: [www.linkedin.com/in/paulo-antbf](www.linkedin.com/in/paulo-antbf)
 
-![](https://tenor.com/pt-BR/view/thumbs-up-smile-emoji-happy-ok-gif-15342067)
+<img src="/thumbs-up-smile.gif">
