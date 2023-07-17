@@ -1,16 +1,19 @@
-### Hi there 👋
+### 🤙 Seja bem-vindo 👋
 
-<!--
-**PauloAnt/PauloAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Paulo Antônio.
 
-Here are some ideas to get you started:
+- Formado em Técnico em Informática;
+- Estudante de Redes de Computadores;
+- Estou me desenvolvendo em JavaScript, Python, NodeJS, MySQL e linguagens de marcações;
+  
+Utilizo esse espaço para compartilhar alguns programas e projetos realizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se quiser entrar em contato comigo 📫
+
+E-mail: pauloantbf@gmail.com
+
+Instagram: @pauloabf_
+
+Linkedin: [www.linkedin.com/in/paulo-antbf](www.linkedin.com/in/paulo-antbf)
+
+![](https://tenor.com/pt-BR/view/thumbs-up-smile-emoji-happy-ok-gif-15342067)
