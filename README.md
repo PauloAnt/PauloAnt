@@ -2,8 +2,8 @@
 
 Meu nome é Paulo Antônio. Utilizo esse espaço para compartilhar alguns programas e projetos realizados.
 
-- : Formado em Técnico em Informática pelo IFPB;
-- Estudante de Redes de Computadores do IFPB;
+- 🎓 Formado em Técnico em Informática pelo IFPB;
+- 🎓 Estudante de Redes de Computadores do IFPB;
 
 💻 Aperfeiçoando Skills 💻
 
@@ -19,8 +19,6 @@ Meu nome é Paulo Antônio. Utilizo esse espaço para compartilhar alguns progra
 ### 📫 Se quiser entrar em contato comigo 📫
 
 **E-mail:** pauloantbf@gmail.com
-
-**Instagram:** @pauloabf_
 
 **Linkedin:** [https://www.linkedin.com/in/paulo-antbf/](https://www.linkedin.com/in/paulo-antbf/)
 
