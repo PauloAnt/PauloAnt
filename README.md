@@ -8,7 +8,7 @@ Meu nome é Paulo Antônio.
   
 Utilizo esse espaço para compartilhar alguns programas e projetos realizados.
 
-### Se quiser entrar em contato comigo 📫
+### 📫 Se quiser entrar em contato comigo 📫
 
 E-mail: pauloantbf@gmail.com
 
