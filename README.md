@@ -1,12 +1,20 @@
 ### 🤙 Seja bem-vindo 👋
 
-Meu nome é Paulo Antônio.
+Meu nome é Paulo Antônio. Utilizo esse espaço para compartilhar alguns programas e projetos realizados.
 
-- Formado em Técnico em Informática;
-- Estudante de Redes de Computadores;
-- Estou me desenvolvendo em JavaScript, Python, NodeJS, MySQL e linguagens de marcações;
+- : Formado em Técnico em Informática pelo IFPB;
+- Estudante de Redes de Computadores do IFPB;
+
+💻 Aperfeiçoando Skills 💻
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
   
-Utilizo esse espaço para compartilhar alguns programas e projetos realizados.
 
 ### 📫 Se quiser entrar em contato comigo 📫
 
@@ -14,6 +22,6 @@ Utilizo esse espaço para compartilhar alguns programas e projetos realizados.
 
 **Instagram:** @pauloabf_
 
-**Linkedin:** [www.linkedin.com/in/paulo-antbf](www.linkedin.com/in/paulo-antbf)
+**Linkedin:** [https://www.linkedin.com/in/paulo-antbf/](https://www.linkedin.com/in/paulo-antbf/)
 
 <img src="/thumbs-up-smile.gif">
