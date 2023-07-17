@@ -10,10 +10,10 @@ Utilizo esse espaço para compartilhar alguns programas e projetos realizados.
 
 ### 📫 Se quiser entrar em contato comigo 📫
 
-E-mail: pauloantbf@gmail.com
+**E-mail:** pauloantbf@gmail.com
 
-Instagram: @pauloabf_
+**Instagram:** @pauloabf_
 
-Linkedin: [www.linkedin.com/in/paulo-antbf](www.linkedin.com/in/paulo-antbf)
+**Linkedin:** [www.linkedin.com/in/paulo-antbf](www.linkedin.com/in/paulo-antbf)
 
 <img src="/thumbs-up-smile.gif">
