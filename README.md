@@ -5,7 +5,7 @@ Meu nome é Paulo Antônio. Utilizo esse espaço para compartilhar alguns progra
 - 🎓 Formado em Técnico em Informática pelo IFPB;
 - 🎓 Estudante de Sistemas para Internet do IFPB;
 
-💻 Aperfeiçoando Skills 💻
+💻 Skills 💻
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,5 +21,3 @@ Meu nome é Paulo Antônio. Utilizo esse espaço para compartilhar alguns progra
 **E-mail:** pauloantbf@gmail.com
 
 **Linkedin:** [https://www.linkedin.com/in/paulo-antbf/](https://www.linkedin.com/in/paulo-antbf/)
-
-<img src="/thumbs-up-smile.gif">
