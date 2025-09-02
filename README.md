@@ -1,9 +1,9 @@
-### 🤙 Seja bem-vindo 👋
+### 🤙 Welcome 👋
 
-Meu nome é Paulo Antônio. Utilizo esse espaço para compartilhar alguns programas e projetos realizados.
+My name is Paulo Antônio, and this is where I share some of the projects and programs I’ve been working on.
 
-- 🎓 Formado em Técnico em Informática pelo IFPB;
-- 🎓 Estudante de Sistemas para Internet do IFPB;
+🎓 Graduated as an IT Technician at IFPB
+🎓 Currently studying Internet Systems at IFPB
 
 💻 Skills 💻
 
@@ -17,10 +17,10 @@ Meu nome é Paulo Antônio. Utilizo esse espaço para compartilhar alguns progra
 
   
 
-### 📫 Se quiser entrar em contato comigo 📫
+### 📫 Get in touch 📫
 
 **E-mail:** pauloantbf@gmail.com
 
 **Linkedin:** [https://www.linkedin.com/in/paulo-antbf/](https://www.linkedin.com/in/paulo-antbf/)
 
-**Portifólio:** [https://portifolio-pauloant.vercel.app](https://portifolio-pauloant.vercel.app)
+**Portifolio:** [https://portifolio-pauloant.vercel.app](https://portifolio-pauloant.vercel.app)
