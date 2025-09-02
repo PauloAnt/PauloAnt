@@ -4,7 +4,7 @@ My name is Paulo Antônio, and this is where I share some of the projects and pr
 
 🎓 Graduated as an IT Technician at IFPB
 
-🎓 Currently studying Internet Systems at IFPB
+🎓 Currently studying Software Engineering at IFPB
 
 💻 Skills 💻
 
